@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://dosenti.github.io/sitemap.html.gz
+Sitemap: https://dosenti.github.io/app/sitemap.html.gz
+Sitemap: https://dosenti.github.io/assets/sitemap.html.gz
+Sitemap: https://dosenti.github.io/css/sitemap.html.gz
+Sitemap: https://dosenti.github.io/includes/sitemap.html.gz
+Sitemap: https://dosenti.github.io/item/sitemap.html.gz
+Sitemap: https://dosenti.github.io/src/sitemap.html.gz
